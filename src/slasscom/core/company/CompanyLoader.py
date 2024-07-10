@@ -35,6 +35,9 @@ class CompanyLoader:
         d_list = page.get_company_d_list()
         page.quit()
         company_list = [cls.from_dict(d) for d in d_list]
+
+        company_list.sort(key=lambda c: c.name)
+
         JSONFile(cls.LOCAL_DATA_PATH).write(
             [c.to_dict() for c in company_list]
         )
