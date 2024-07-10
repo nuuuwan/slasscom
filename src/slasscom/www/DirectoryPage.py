@@ -43,10 +43,6 @@ class DirectoryPage:
             elem_list[0].find_element(By.TAG_NAME, 'img').get_attribute('src')
         )
 
-        if len(text_list) != 8:
-            log.debug(text_list)
-            raise ValueError('Unexpected number of elements')
-
         [
             name,
             core_business_focus,
