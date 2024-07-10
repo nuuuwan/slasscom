@@ -53,6 +53,8 @@ class DirectoryPage:
             website,
         ] = text_list[1:]
 
+        address = address.replace('\n', ' ').strip()
+
         return dict(
             name=name,
             logo_image_url=logo_image_url,

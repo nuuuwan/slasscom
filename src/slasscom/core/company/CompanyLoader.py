@@ -38,6 +38,7 @@ class CompanyLoader:
 
         company_list.sort(key=lambda c: c.name)
 
+        os.makedirs(cls.DIR_DATA, exist_ok=True)
         JSONFile(cls.LOCAL_DATA_PATH).write(
             [c.to_dict() for c in company_list]
         )
