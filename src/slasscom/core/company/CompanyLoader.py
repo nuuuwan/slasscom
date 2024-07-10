@@ -2,7 +2,7 @@ import os
 import re
 from functools import cached_property
 
-from utils import WWW, JSONFile, Log, Hash
+from utils import WWW, Hash, JSONFile, Log
 
 from slasscom.www.DirectoryPage import DirectoryPage
 
@@ -61,6 +61,7 @@ class CompanyLoader:
         name_part = re.sub(r'\W+', '_', self.name.lower())
         h = Hash.md5(self.name)[:8]
         return name_part[:8] + '-' + h
+
     @cached_property
     def logo_path(self) -> str:
         ext = self.logo_image_url.split('.')[-1]
