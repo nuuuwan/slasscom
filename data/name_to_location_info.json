@@ -1,0 +1,1410 @@
+{
+  "24Streets": {
+    "company_name": "24Streets",
+    "company_address": "No 918 Electricity board Battaramulla, Colombo 10120",
+    "latlng": [
+      6.9012949,
+      79.9225712
+    ],
+    "province_id": "LK-1",
+    "province_name": "Western",
+    "district_id": "LK-11",
+    "district_name": "Colombo",
+    "dsd_id": "LK-1109",
+    "dsd_name": "Kaduwela",
+    "gnd_id": "LK-1109180",
+    "gnd_name": "Battaramulla North"
+  },
+  "3 AXIS LABS (PVT) LTD": {
+    "company_name": "3 AXIS LABS (PVT) LTD",
+    "company_address": "No.34&36, 2nd Floor, Sir Vaithilingam Duraisamy Road, Jaffna.",
+    "latlng": [
+      9.6614981,
+      80.02554649999999
+    ],
+    "province_id": "LK-4",
+    "province_name": "Northern",
+    "district_id": "LK-41",
+    "district_name": "Jaffna",
+    "dsd_id": "LK-4136",
+    "dsd_name": "Jaffna",
+    "gnd_id": "LK-4136080",
+    "gnd_name": "Chundikuli North"
+  },
+  "99X Technology (Pvt) Ltd": {
+    "company_name": "99X Technology (Pvt) Ltd",
+    "company_address": "65, Walukarama Road Colombo 03 Sri Lanka",
+    "latlng": [
+      6.9056636,
+      79.85495379999999
+    ],
+    "province_id": "LK-1",
+    "province_name": "Western",
+    "district_id": "LK-11",
+    "district_name": "Colombo",
+    "dsd_id": "LK-1127",
+    "dsd_name": "Thimbirigasyaya",
+    "gnd_id": "LK-1127010",
+    "gnd_name": "Bambalapitiya"
+  },
+  "ACECAM (PVT) LTD": {
+    "company_name": "ACECAM (PVT) LTD",
+    "company_address": "419 2/1 Galle Road, Colombo 03, Sri Lanka, 00300.",
+    "latlng": [
+      6.904322899999999,
+      79.852142
+    ],
+    "province_id": "LK-1",
+    "province_name": "Western",
+    "district_id": "LK-11",
+    "district_name": "Colombo",
+    "dsd_id": "LK-1127",
+    "dsd_name": "Thimbirigasyaya",
+    "gnd_id": "LK-1127010",
+    "gnd_name": "Bambalapitiya"
+  },
+  "Accario PVT LTD": {
+    "company_name": "Accario PVT LTD",
+    "company_address": "1st Floor, No 111, T.B. Jayah Mawatha, Colombo 10.",
+    "latlng": [
+      6.9274809,
+      79.8622908
+    ],
+    "province_id": "LK-1",
+    "province_name": "Western",
+    "district_id": "LK-11",
+    "district_name": "Colombo",
+    "dsd_id": "LK-1103",
+    "dsd_name": "Colombo",
+    "gnd_id": "LK-1103140",
+    "gnd_name": "Suduwella"
+  },
+  "Acuity Knowledge Partners Lanka (Pvt) ltd": {
+    "company_name": "Acuity Knowledge Partners Lanka (Pvt) ltd",
+    "company_address": "Level 32, West Tower World Trade Centre Echelon Square, Colombo 01",
+    "latlng": [
+      6.937813599999999,
+      79.8436796
+    ],
+    "province_id": "LK-1",
+    "province_name": "Western",
+    "district_id": "LK-11",
+    "district_name": "Colombo",
+    "dsd_id": "LK-1103",
+    "dsd_name": "Colombo",
+    "gnd_id": "LK-1103120",
+    "gnd_name": "Fort"
+  },
+  "Advania pvt ltd": {
+    "company_name": "Advania pvt ltd",
+    "company_address": "No 61, Level 2, Janadhipathi Mawatha, Colombo 01",
+    "latlng": [
+      6.935218600000001,
+      79.84293629999999
+    ],
+    "province_id": "LK-1",
+    "province_name": "Western",
+    "district_id": "LK-11",
+    "district_name": "Colombo",
+    "dsd_id": "LK-1103",
+    "dsd_name": "Colombo",
+    "gnd_id": "LK-1103120",
+    "gnd_name": "Fort"
+  },
+  "Aeturnum Lanka Private Limited": {
+    "company_name": "Aeturnum Lanka Private Limited",
+    "company_address": "197, Stanley Thilakarathne Mawatha, Nugegoda",
+    "latlng": [
+      6.8755373,
+      79.8973436
+    ],
+    "province_id": "LK-1",
+    "province_name": "Western",
+    "district_id": "LK-11",
+    "district_name": "Colombo",
+    "dsd_id": "LK-1124",
+    "dsd_name": "Sri Jayawardanapura Kotte",
+    "gnd_id": "LK-1124080",
+    "gnd_name": "Nugegoda"
+  },
+  "Agrithmics Pvt Ltd": {
+    "company_name": "Agrithmics Pvt Ltd",
+    "company_address": "90, Gothami Road, Colombo 08, Sri Lanka",
+    "latlng": [
+      6.9140682,
+      79.88739029999999
+    ],
+    "province_id": "LK-1",
+    "province_name": "Western",
+    "district_id": "LK-11",
+    "district_name": "Colombo",
+    "dsd_id": "LK-1127",
+    "dsd_name": "Thimbirigasyaya",
+    "gnd_id": "LK-1127050",
+    "gnd_name": "Gothamipura"
+  },
+  "Anka Technologies (Pvt) Ltd": {
+    "company_name": "Anka Technologies (Pvt) Ltd",
+    "company_address": "12, Wattarantenna Road, Kandy",
+    "latlng": [
+      7.3160934,
+      80.62963859999999
+    ],
+    "province_id": "LK-2",
+    "province_name": "Central",
+    "district_id": "LK-21",
+    "district_name": "Kandy",
+    "dsd_id": "LK-2130",
+    "dsd_name": "Kandy Four Gravets & Gangawata Korale",
+    "gnd_id": "LK-2130015",
+    "gnd_name": "Pitakanda Gama"
+  },
+  "Arimac Lanka (Pvt) Ltd": {
+    "company_name": "Arimac Lanka (Pvt) Ltd",
+    "company_address": "03, 02 6th Ln, Colombo 03",
+    "latlng": [
+      6.9024098,
+      79.8530359
+    ],
+    "province_id": "LK-1",
+    "province_name": "Western",
+    "district_id": "LK-11",
+    "district_name": "Colombo",
+    "dsd_id": "LK-1127",
+    "dsd_name": "Thimbirigasyaya",
+    "gnd_id": "LK-1127010",
+    "gnd_name": "Bambalapitiya"
+  },
+  "Atrenta Lanka (Pvt) Ltd": {
+    "company_name": "Atrenta Lanka (Pvt) Ltd",
+    "company_address": "No. 03, 2/1, Lukshmi Gardens Colombo 08, Sri Lanka",
+    "latlng": [
+      6.9157014,
+      79.876235
+    ],
+    "province_id": "LK-1",
+    "province_name": "Western",
+    "district_id": "LK-11",
+    "district_name": "Colombo",
+    "dsd_id": "LK-1127",
+    "dsd_name": "Thimbirigasyaya",
+    "gnd_id": "LK-1127045",
+    "gnd_name": "Borella South"
+  },
+  "Axiata Digital Ads": {
+    "company_name": "Axiata Digital Ads",
+    "company_address": "Level 03, Parkland 01, No.33, Park street, Colombo 02",
+    "latlng": [
+      6.9179062,
+      79.8587534
+    ],
+    "province_id": "LK-1",
+    "province_name": "Western",
+    "district_id": "LK-11",
+    "district_name": "Colombo",
+    "dsd_id": "LK-1103",
+    "dsd_name": "Colombo",
+    "gnd_id": "LK-1103170",
+    "gnd_name": "Ibbanwala"
+  },
+  "Axiata Digital Labs": {
+    "company_name": "Axiata Digital Labs",
+    "company_address": "Parkland Level 11, 33 Park St, Colombo 2",
+    "latlng": [
+      6.9199331,
+      79.85402739999999
+    ],
+    "province_id": "LK-1",
+    "province_name": "Western",
+    "district_id": "LK-11",
+    "district_name": "Colombo",
+    "dsd_id": "LK-1103",
+    "dsd_name": "Colombo",
+    "gnd_id": "LK-1103170",
+    "gnd_name": "Ibbanwala"
+  },
+  "Brennan SL PVT LTD": {
+    "company_name": "Brennan SL PVT LTD",
+    "company_address": "Orion City 752-5, Dr. Danister De Silva Mawatha, Colombo 09, Western Province Sri Lanka",
+    "latlng": [
+      6.9406744,
+      79.8792465
+    ],
+    "province_id": "LK-1",
+    "province_name": "Western",
+    "district_id": "LK-11",
+    "district_name": "Colombo",
+    "dsd_id": "LK-1127",
+    "dsd_name": "Thimbirigasyaya",
+    "gnd_id": "LK-1127030",
+    "gnd_name": "Dematagoda"
+  },
+  "CBA Solutions (payable)": {
+    "company_name": "CBA Solutions (payable)",
+    "company_address": "4th floor, Huejay court, 32 Sir Mohammed Macan Marker Mawatha, Colombo 3",
+    "latlng": [
+      6.9214319,
+      79.8476384
+    ],
+    "province_id": "LK-1",
+    "province_name": "Western",
+    "district_id": "LK-11",
+    "district_name": "Colombo",
+    "dsd_id": "LK-1127",
+    "dsd_name": "Thimbirigasyaya",
+    "gnd_id": "LK-1127005",
+    "gnd_name": "Kollupitiya"
+  },
+  "Cake Technologies(Mad Mobile)": {
+    "company_name": "Cake Technologies(Mad Mobile)",
+    "company_address": "30 Sri Uttarananda Mawatha, Colombo 03",
+    "latlng": [
+      6.920132,
+      79.8486389
+    ],
+    "province_id": "LK-1",
+    "province_name": "Western",
+    "district_id": "LK-11",
+    "district_name": "Colombo",
+    "dsd_id": "LK-1127",
+    "dsd_name": "Thimbirigasyaya",
+    "gnd_id": "LK-1127005",
+    "gnd_name": "Kollupitiya"
+  },
+  "Cambio Software Engineering": {
+    "company_name": "Cambio Software Engineering",
+    "company_address": "524 R. A. De Mel Mawatha, Colombo",
+    "latlng": [
+      6.898060699999999,
+      79.85586690000001
+    ],
+    "province_id": "LK-1",
+    "province_name": "Western",
+    "district_id": "LK-11",
+    "district_name": "Colombo",
+    "dsd_id": "LK-1127",
+    "dsd_name": "Thimbirigasyaya",
+    "gnd_id": "LK-1127010",
+    "gnd_name": "Bambalapitiya"
+  },
+  "Cicra Solutions (Pvt) Ltd": {
+    "company_name": "Cicra Solutions (Pvt) Ltd",
+    "company_address": "No. 1004A, Eighth Floor, Unity Plaza, No. 02, Galle Road, Colombo 04",
+    "latlng": [
+      6.9130523,
+      79.8491847
+    ],
+    "province_id": "LK-1",
+    "province_name": "Western",
+    "district_id": "LK-11",
+    "district_name": "Colombo",
+    "dsd_id": "LK-1127",
+    "dsd_name": "Thimbirigasyaya",
+    "gnd_id": "LK-1127005",
+    "gnd_name": "Kollupitiya"
+  },
+  "CodeGen International(Pvt) Ltd": {
+    "company_name": "CodeGen International(Pvt) Ltd",
+    "company_address": "Trace Expert City, Bay 1-5, Maradana Rd, Colombo",
+    "latlng": [
+      6.9300599,
+      79.86146169999999
+    ],
+    "province_id": "LK-1",
+    "province_name": "Western",
+    "district_id": "LK-11",
+    "district_name": "Colombo",
+    "dsd_id": "LK-1103",
+    "dsd_name": "Colombo",
+    "gnd_id": "LK-1103140",
+    "gnd_name": "Suduwella"
+  },
+  "Creative Software": {
+    "company_name": "Creative Software",
+    "company_address": "413, R. A. De Mel Mawatha, Colombo 3, Sri Lanka",
+    "latlng": [
+      6.8996511,
+      79.8558012
+    ],
+    "province_id": "LK-1",
+    "province_name": "Western",
+    "district_id": "LK-11",
+    "district_name": "Colombo",
+    "dsd_id": "LK-1127",
+    "dsd_name": "Thimbirigasyaya",
+    "gnd_id": "LK-1127010",
+    "gnd_name": "Bambalapitiya"
+  },
+  "DMS Software Technologies (pvt) ltd": {
+    "company_name": "DMS Software Technologies (pvt) ltd",
+    "company_address": "No 207/2, Dharmapala Mawatha, Colombo 07, Sri Lanka",
+    "latlng": [
+      6.9135409,
+      79.856567
+    ],
+    "province_id": "LK-1",
+    "province_name": "Western",
+    "district_id": "LK-11",
+    "district_name": "Colombo",
+    "dsd_id": "LK-1103",
+    "dsd_name": "Colombo",
+    "gnd_id": "LK-1103170",
+    "gnd_name": "Ibbanwala"
+  },
+  "Daraz": {
+    "company_name": "Daraz",
+    "company_address": "100 Elvitigala Mawatha, Colombo 08",
+    "latlng": [
+      6.905565999999999,
+      79.8770139
+    ],
+    "province_id": "LK-1",
+    "province_name": "Western",
+    "district_id": "LK-11",
+    "district_name": "Colombo",
+    "dsd_id": "LK-1127",
+    "dsd_name": "Thimbirigasyaya",
+    "gnd_id": "LK-1127060",
+    "gnd_name": "Thimbirigasyaya"
+  },
+  "Data One Solutions (Pvt) Ltd": {
+    "company_name": "Data One Solutions (Pvt) Ltd",
+    "company_address": "No 28 Sulaiman Terrace, Colombo 05",
+    "latlng": [
+      6.892337899999999,
+      79.86478679999999
+    ],
+    "province_id": "LK-1",
+    "province_name": "Western",
+    "district_id": "LK-11",
+    "district_name": "Colombo",
+    "dsd_id": "LK-1127",
+    "dsd_name": "Thimbirigasyaya",
+    "gnd_id": "LK-1127060",
+    "gnd_name": "Thimbirigasyaya"
+  },
+  "Dialog Axiata PLC": {
+    "company_name": "Dialog Axiata PLC",
+    "company_address": "28 Hildon Pl, Colombo 04",
+    "latlng": [
+      6.8854412,
+      79.8601108
+    ],
+    "province_id": "LK-1",
+    "province_name": "Western",
+    "district_id": "LK-11",
+    "district_name": "Colombo",
+    "dsd_id": "LK-1127",
+    "dsd_name": "Thimbirigasyaya",
+    "gnd_id": "LK-1127065",
+    "gnd_name": "Milagiriya"
+  },
+  "Digital Mobility Solutions Lanka (Private) Limited": {
+    "company_name": "Digital Mobility Solutions Lanka (Private) Limited",
+    "company_address": "Digital Mobility Solutions Lanka (Pvt) Ltd. No 309, High Level Road, Colombo 05",
+    "latlng": [
+      6.872617699999999,
+      79.8836161
+    ],
+    "province_id": "LK-1",
+    "province_name": "Western",
+    "district_id": "LK-11",
+    "district_name": "Colombo",
+    "dsd_id": "LK-1127",
+    "dsd_name": "Thimbirigasyaya",
+    "gnd_id": "LK-1127080",
+    "gnd_name": "Kirulapone"
+  },
+  "Eguardian Lanka": {
+    "company_name": "Eguardian Lanka",
+    "company_address": "Level 16,  Access Tower II 278/4,  Union place,  Colombo 02.",
+    "latlng": [
+      6.920204,
+      79.85747099999999
+    ],
+    "province_id": "LK-1",
+    "province_name": "Western",
+    "district_id": "LK-11",
+    "district_name": "Colombo",
+    "dsd_id": "LK-1103",
+    "dsd_name": "Colombo",
+    "gnd_id": "LK-1103170",
+    "gnd_name": "Ibbanwala"
+  },
+  "Encyte (Pvt) Ltd": {
+    "company_name": "Encyte (Pvt) Ltd",
+    "company_address": "171, Moratuwa Road, Piliyandala",
+    "latlng": [
+      6.799170999999999,
+      79.9191718
+    ],
+    "province_id": "LK-1",
+    "province_name": "Western",
+    "district_id": "LK-11",
+    "district_name": "Colombo",
+    "dsd_id": "LK-1136",
+    "dsd_name": "Kesbewa",
+    "gnd_id": "LK-1136235",
+    "gnd_name": "Suwarapola East"
+  },
+  "Envoy Ortus": {
+    "company_name": "Envoy Ortus",
+    "company_address": "WTC East Tower, level 6, Echelon Square, Colombo 01",
+    "latlng": [
+      6.9326529,
+      79.844161
+    ],
+    "province_id": "LK-1",
+    "province_name": "Western",
+    "district_id": "LK-11",
+    "district_name": "Colombo",
+    "dsd_id": "LK-1103",
+    "dsd_name": "Colombo",
+    "gnd_id": "LK-1103120",
+    "gnd_name": "Fort"
+  },
+  "Exetel Communications (Pvt) Ltd": {
+    "company_name": "Exetel Communications (Pvt) Ltd",
+    "company_address": "World Trade Centre, East Tower, Level 25, Colombo 1",
+    "latlng": [
+      6.8758351,
+      79.8606842
+    ],
+    "province_id": "LK-1",
+    "province_name": "Western",
+    "district_id": "LK-11",
+    "district_name": "Colombo",
+    "dsd_id": "LK-1127",
+    "dsd_name": "Thimbirigasyaya",
+    "gnd_id": "LK-1127085",
+    "gnd_name": "Wellawatta North"
+  },
+  "Finnovation Pvt Ltd (zen capital)": {
+    "company_name": "Finnovation Pvt Ltd (zen capital)",
+    "company_address": "Level 5, Millennium House, 46/58, Nawam Mawatha, Colombo 02",
+    "latlng": [
+      6.919354999999999,
+      79.850894
+    ],
+    "province_id": "LK-1",
+    "province_name": "Western",
+    "district_id": "LK-11",
+    "district_name": "Colombo",
+    "dsd_id": "LK-1103",
+    "dsd_name": "Colombo",
+    "gnd_id": "LK-1103175",
+    "gnd_name": "Wekanda"
+  },
+  "Fortude": {
+    "company_name": "Fortude",
+    "company_address": "Fortude (Pvt) Ltd 146 Kynsey Road Colombo 7 Sri Lanka",
+    "latlng": [
+      6.910168199999999,
+      79.87617139999999
+    ],
+    "province_id": "LK-1",
+    "province_name": "Western",
+    "district_id": "LK-11",
+    "district_name": "Colombo",
+    "dsd_id": "LK-1127",
+    "dsd_name": "Thimbirigasyaya",
+    "gnd_id": "LK-1127015",
+    "gnd_name": "Kurunduwatta"
+  },
+  "GTN Technologies PVT LTD": {
+    "company_name": "GTN Technologies PVT LTD",
+    "company_address": "Level 10, Parkland, No 33, Park Street, Colombo 02, Sri Lanka",
+    "latlng": [
+      6.9179062,
+      79.8587534
+    ],
+    "province_id": "LK-1",
+    "province_name": "Western",
+    "district_id": "LK-11",
+    "district_name": "Colombo",
+    "dsd_id": "LK-1103",
+    "dsd_name": "Colombo",
+    "gnd_id": "LK-1103170",
+    "gnd_name": "Ibbanwala"
+  },
+  "GUI Solutions Lanka Pvt Ltd": {
+    "company_name": "GUI Solutions Lanka Pvt Ltd",
+    "company_address": "4th Level, 5E/67, Kandy Road, Kadawatha, Sri Lanka.",
+    "latlng": [
+      7.002446,
+      79.95227969999999
+    ],
+    "province_id": "LK-1",
+    "province_name": "Western",
+    "district_id": "LK-12",
+    "district_name": "Gampaha",
+    "dsd_id": "LK-1239",
+    "dsd_name": "Biyagama",
+    "gnd_id": "LK-1239010",
+    "gnd_name": "Ihala Biyanvila North"
+  },
+  "Gapstars": {
+    "company_name": "Gapstars",
+    "company_address": "475/5, 5th Floor Onyx Building Sri Jayawardene Kotte Sri Lanka",
+    "latlng": [
+      6.8867616,
+      79.9187142
+    ],
+    "province_id": "LK-1",
+    "province_name": "Western",
+    "district_id": "LK-11",
+    "district_name": "Colombo",
+    "dsd_id": "LK-1124",
+    "dsd_name": "Sri Jayawardanapura Kotte",
+    "gnd_id": "LK-1124050",
+    "gnd_name": "Pitakotte East"
+  },
+  "GoodAgile Lanka (Private) Limited": {
+    "company_name": "GoodAgile Lanka (Private) Limited",
+    "company_address": "7 Amarasekara Mawatha, Colombo 5",
+    "latlng": [
+      6.8836293,
+      79.8632788
+    ],
+    "province_id": "LK-1",
+    "province_name": "Western",
+    "district_id": "LK-11",
+    "district_name": "Colombo",
+    "dsd_id": "LK-1127",
+    "dsd_name": "Thimbirigasyaya",
+    "gnd_id": "LK-1127070",
+    "gnd_name": "Havelock Town"
+  },
+  "H Connect (Pvt) Ltd": {
+    "company_name": "H Connect (Pvt) Ltd",
+    "company_address": "Colombo, Western 00100, LK",
+    "latlng": [
+      6.9338586,
+      79.84433709999999
+    ],
+    "province_id": "LK-1",
+    "province_name": "Western",
+    "district_id": "LK-11",
+    "district_name": "Colombo",
+    "dsd_id": "LK-1103",
+    "dsd_name": "Colombo",
+    "gnd_id": "LK-1103120",
+    "gnd_name": "Fort"
+  },
+  "HCL Technologies Lanka Private Limited": {
+    "company_name": "HCL Technologies Lanka Private Limited",
+    "company_address": "Cinnamon Life, Glennie Street, Colombo 02",
+    "latlng": [
+      6.9249866,
+      79.8485328
+    ],
+    "province_id": "LK-1",
+    "province_name": "Western",
+    "district_id": "LK-11",
+    "district_name": "Colombo",
+    "dsd_id": "LK-1103",
+    "dsd_name": "Colombo",
+    "gnd_id": "LK-1103125",
+    "gnd_name": "Galle Face"
+  },
+  "HSBC Electronic Data Processing Lanka Pvt Ltd- HDPL": {
+    "company_name": "HSBC Electronic Data Processing Lanka Pvt Ltd- HDPL",
+    "company_address": "324/9 Havelock Rd, Colombo 05",
+    "latlng": [
+      6.8828803,
+      79.8676259
+    ],
+    "province_id": "LK-1",
+    "province_name": "Western",
+    "district_id": "LK-11",
+    "district_name": "Colombo",
+    "dsd_id": "LK-1127",
+    "dsd_name": "Thimbirigasyaya",
+    "gnd_id": "LK-1127085",
+    "gnd_name": "Wellawatta North"
+  },
+  "InfoMate Private Limited": {
+    "company_name": "InfoMate Private Limited",
+    "company_address": "4 Layden Bastian Rd, Colombo 00100",
+    "latlng": [
+      6.937526999999999,
+      79.84541910000002
+    ],
+    "province_id": "LK-1",
+    "province_name": "Western",
+    "district_id": "LK-11",
+    "district_name": "Colombo",
+    "dsd_id": "LK-1103",
+    "dsd_name": "Colombo",
+    "gnd_id": "LK-1103120",
+    "gnd_name": "Fort"
+  },
+  "Informatics Institute of Technology (IIT)": {
+    "company_name": "Informatics Institute of Technology (IIT)",
+    "company_address": "57, Ramakrishna Road, Colombo 06, Sri Lanka",
+    "latlng": [
+      6.8651331,
+      79.859866
+    ],
+    "province_id": "LK-1",
+    "province_name": "Western",
+    "district_id": "LK-11",
+    "district_name": "Colombo",
+    "dsd_id": "LK-1127",
+    "dsd_name": "Thimbirigasyaya",
+    "gnd_id": "LK-1127090",
+    "gnd_name": "Wellawatta South"
+  },
+  "Informatics International Limited": {
+    "company_name": "Informatics International Limited",
+    "company_address": "33, Bagatalle Road, Colombo 3, Sri Lanka",
+    "latlng": [
+      6.9025004,
+      79.85749899999999
+    ],
+    "province_id": "LK-1",
+    "province_name": "Western",
+    "district_id": "LK-11",
+    "district_name": "Colombo",
+    "dsd_id": "LK-1127",
+    "dsd_name": "Thimbirigasyaya",
+    "gnd_id": "LK-1127010",
+    "gnd_name": "Bambalapitiya"
+  },
+  "Innodata Lanka PVT LTD": {
+    "company_name": "Innodata Lanka PVT LTD",
+    "company_address": "Dawasa Building, 5 Mihindu Mawatha, Colombo 01",
+    "latlng": [
+      6.934255599999999,
+      79.85874940000001
+    ],
+    "province_id": "LK-1",
+    "province_name": "Western",
+    "district_id": "LK-11",
+    "district_name": "Colombo",
+    "dsd_id": "LK-1103",
+    "dsd_name": "Colombo",
+    "gnd_id": "LK-1103145",
+    "gnd_name": "Keselwatta"
+  },
+  "Innovative E Pvt Ltd": {
+    "company_name": "Innovative E Pvt Ltd",
+    "company_address": "25, Police Park Avenue, Colombo 05, Sri Lanka",
+    "latlng": [
+      6.8935411,
+      79.8591422
+    ],
+    "province_id": "LK-1",
+    "province_name": "Western",
+    "district_id": "LK-11",
+    "district_name": "Colombo",
+    "dsd_id": "LK-1127",
+    "dsd_name": "Thimbirigasyaya",
+    "gnd_id": "LK-1127065",
+    "gnd_name": "Milagiriya"
+  },
+  "Intervest Software Technologies": {
+    "company_name": "Intervest Software Technologies",
+    "company_address": "Level 23, Mireka Tower Havelock City, 324 Havelock City , Colombo 5",
+    "latlng": [
+      6.883089999999999,
+      79.8680652
+    ],
+    "province_id": "LK-1",
+    "province_name": "Western",
+    "district_id": "LK-11",
+    "district_name": "Colombo",
+    "dsd_id": "LK-1127",
+    "dsd_name": "Thimbirigasyaya",
+    "gnd_id": "LK-1127085",
+    "gnd_name": "Wellawatta North"
+  },
+  "John Keells Holdings PLC Octave": {
+    "company_name": "John Keells Holdings PLC Octave",
+    "company_address": "117 Sir Chittampalam A Gardiner Mawatha, Colombo 2, Sri Lanka.",
+    "latlng": [
+      6.9298377,
+      79.8477933
+    ],
+    "province_id": "LK-1",
+    "province_name": "Western",
+    "district_id": "LK-11",
+    "district_name": "Colombo",
+    "dsd_id": "LK-1103",
+    "dsd_name": "Colombo",
+    "gnd_id": "LK-1103120",
+    "gnd_name": "Fort"
+  },
+  "John Keells IT (Pvt) Ltd": {
+    "company_name": "John Keells IT (Pvt) Ltd",
+    "company_address": "148 Vauxhall St, Colombo 02",
+    "latlng": [
+      6.9233061,
+      79.8560789
+    ],
+    "province_id": "LK-1",
+    "province_name": "Western",
+    "district_id": "LK-11",
+    "district_name": "Colombo",
+    "dsd_id": "LK-1103",
+    "dsd_name": "Colombo",
+    "gnd_id": "LK-1103135",
+    "gnd_name": "Hunupitiya"
+  },
+  "KPMG Sri Lanka": {
+    "company_name": "KPMG Sri Lanka",
+    "company_address": "32A, Sir Mohamed Macan Markar Mawatha, Colombo 3",
+    "latlng": [
+      6.921430600000001,
+      79.8482241
+    ],
+    "province_id": "LK-1",
+    "province_name": "Western",
+    "district_id": "LK-11",
+    "district_name": "Colombo",
+    "dsd_id": "LK-1127",
+    "dsd_name": "Thimbirigasyaya",
+    "gnd_id": "LK-1127005",
+    "gnd_name": "Kollupitiya"
+  },
+  "Knowledge Outsource Pvt Ltd": {
+    "company_name": "Knowledge Outsource Pvt Ltd",
+    "company_address": "Level 34, East Tower, World Trade Center, Colombo 1",
+    "latlng": [
+      6.9326529,
+      79.844161
+    ],
+    "province_id": "LK-1",
+    "province_name": "Western",
+    "district_id": "LK-11",
+    "district_name": "Colombo",
+    "dsd_id": "LK-1103",
+    "dsd_name": "Colombo",
+    "gnd_id": "LK-1103120",
+    "gnd_name": "Fort"
+  },
+  "LSEG Business Services Colombo (Pvt) Ltd": {
+    "company_name": "LSEG Business Services Colombo (Pvt) Ltd",
+    "company_address": "Trace, Expert City, Colombo 10  No, 1, Millennium Drive, Malabe, Western Province 10115, LK",
+    "latlng": [
+      6.9201882,
+      79.9604829
+    ],
+    "province_id": "LK-1",
+    "province_name": "Western",
+    "district_id": "LK-11",
+    "district_name": "Colombo",
+    "dsd_id": "LK-1109",
+    "dsd_name": "Kaduwela",
+    "gnd_id": "LK-1109060",
+    "gnd_name": "Mahadeniya"
+  },
+  "MAS Innovation PVT LTD": {
+    "company_name": "MAS Innovation PVT LTD",
+    "company_address": "50 Foster Ln, Colombo 07",
+    "latlng": [
+      6.918487799999999,
+      79.8640382
+    ],
+    "province_id": "LK-1",
+    "province_name": "Western",
+    "district_id": "LK-11",
+    "district_name": "Colombo",
+    "dsd_id": "LK-1103",
+    "dsd_name": "Colombo",
+    "gnd_id": "LK-1103170",
+    "gnd_name": "Ibbanwala"
+  },
+  "MAS Legato (Pvt) Ltd": {
+    "company_name": "MAS Legato (Pvt) Ltd",
+    "company_address": "Lot 49, 49A, 58 & 59, Biyagama Export Processing Zone, Walgama, Malwana, Biyagama, LK",
+    "latlng": [
+      6.9607739,
+      80.00994620000002
+    ],
+    "province_id": "LK-1",
+    "province_name": "Western",
+    "district_id": "LK-12",
+    "district_name": "Gampaha",
+    "dsd_id": "LK-1239",
+    "dsd_name": "Biyagama",
+    "gnd_id": "LK-1239155",
+    "gnd_name": "Walgama West"
+  },
+  "Metatechno Lanka Company (PVT) Ltd": {
+    "company_name": "Metatechno Lanka Company (PVT) Ltd",
+    "company_address": "Lakshmans Building, Second Floor, No. 321 2/1 (Part) Galle Road, Colombo 03, 00300, Sri Lanka",
+    "latlng": [
+      6.904322899999999,
+      79.852142
+    ],
+    "province_id": "LK-1",
+    "province_name": "Western",
+    "district_id": "LK-11",
+    "district_name": "Colombo",
+    "dsd_id": "LK-1127",
+    "dsd_name": "Thimbirigasyaya",
+    "gnd_id": "LK-1127010",
+    "gnd_name": "Bambalapitiya"
+  },
+  "Michelin Business Services Lanka (Pvt) Ltd": {
+    "company_name": "Michelin Business Services Lanka (Pvt) Ltd",
+    "company_address": "No 218 Minuwangoda Road, Ekala, Ja-Ela 11380, Sri Lanka",
+    "latlng": [
+      7.1616136,
+      79.94519629999999
+    ],
+    "province_id": "LK-1",
+    "province_name": "Western",
+    "district_id": "LK-12",
+    "district_name": "Gampaha",
+    "dsd_id": "LK-1215",
+    "dsd_name": "Minuwangoda",
+    "gnd_id": "LK-1215290",
+    "gnd_name": "Ambagahawatta"
+  },
+  "Micro Research Group (Private) Limited": {
+    "company_name": "Micro Research Group (Private) Limited",
+    "company_address": "Micro Research Group (Pvt) Ltd. 276/9, Kotte Road, Nugegoda, Sri Lanka.",
+    "latlng": [
+      6.8904901,
+      79.9034432
+    ],
+    "province_id": "LK-1",
+    "province_name": "Western",
+    "district_id": "LK-11",
+    "district_name": "Colombo",
+    "dsd_id": "LK-1124",
+    "dsd_name": "Sri Jayawardanapura Kotte",
+    "gnd_id": "LK-1124055",
+    "gnd_name": "Pitakotte"
+  },
+  "Microsoft Sri Lanka PVT LTD": {
+    "company_name": "Microsoft Sri Lanka PVT LTD",
+    "company_address": "Access Tower II, 22nd Floor, 278 Union Pl, Colombo 02",
+    "latlng": [
+      6.920198099999999,
+      79.857464
+    ],
+    "province_id": "LK-1",
+    "province_name": "Western",
+    "district_id": "LK-11",
+    "district_name": "Colombo",
+    "dsd_id": "LK-1103",
+    "dsd_name": "Colombo",
+    "gnd_id": "LK-1103170",
+    "gnd_name": "Ibbanwala"
+  },
+  "Millenium IT ESP PVT LTD": {
+    "company_name": "Millenium IT ESP PVT LTD",
+    "company_address": "450D R. A. De Mel Mawatha, Colombo 4",
+    "latlng": [
+      6.9026652,
+      79.8543888
+    ],
+    "province_id": "LK-1",
+    "province_name": "Western",
+    "district_id": "LK-11",
+    "district_name": "Colombo",
+    "dsd_id": "LK-1127",
+    "dsd_name": "Thimbirigasyaya",
+    "gnd_id": "LK-1127010",
+    "gnd_name": "Bambalapitiya"
+  },
+  "Millenium IT Software PVT LTD": {
+    "company_name": "Millenium IT Software PVT LTD",
+    "company_address": "01 Millennium Dr, Malabe",
+    "latlng": [
+      6.9214483,
+      79.9608872
+    ],
+    "province_id": "LK-1",
+    "province_name": "Western",
+    "district_id": "LK-11",
+    "district_name": "Colombo",
+    "dsd_id": "LK-1109",
+    "dsd_name": "Kaduwela",
+    "gnd_id": "LK-1109060",
+    "gnd_name": "Mahadeniya"
+  },
+  "Mitra Innovation (Pvt) Ltd": {
+    "company_name": "Mitra Innovation (Pvt) Ltd",
+    "company_address": "472, Galle Road,, Rawatawatta, Moratuwa",
+    "latlng": [
+      6.793160899999999,
+      79.88714850000001
+    ],
+    "province_id": "LK-1",
+    "province_name": "Western",
+    "district_id": "LK-11",
+    "district_name": "Colombo",
+    "dsd_id": "LK-1133",
+    "dsd_name": "Moratuwa",
+    "gnd_id": "LK-1133075",
+    "gnd_name": "Rawathawatta East"
+  },
+  "Mobitel (Private) Limited": {
+    "company_name": "Mobitel (Private) Limited",
+    "company_address": "108, W.A.D.Ramanayake Mawatha, Colombo 02",
+    "latlng": [
+      6.9145791,
+      79.8568951
+    ],
+    "province_id": "LK-1",
+    "province_name": "Western",
+    "district_id": "LK-11",
+    "district_name": "Colombo",
+    "dsd_id": "LK-1103",
+    "dsd_name": "Colombo",
+    "gnd_id": "LK-1103170",
+    "gnd_name": "Ibbanwala"
+  },
+  "N-able PVT LTD": {
+    "company_name": "N-able PVT LTD",
+    "company_address": "No.36, Bristol Street, Colombo 01",
+    "latlng": [
+      6.9352403,
+      79.8452113
+    ],
+    "province_id": "LK-1",
+    "province_name": "Western",
+    "district_id": "LK-11",
+    "district_name": "Colombo",
+    "dsd_id": "LK-1103",
+    "dsd_name": "Colombo",
+    "gnd_id": "LK-1103120",
+    "gnd_name": "Fort"
+  },
+  "Nagarro (Pvt) Ltd": {
+    "company_name": "Nagarro (Pvt) Ltd",
+    "company_address": "Bay X ,Trace Expert City, Maradana",
+    "latlng": [
+      6.9300599,
+      79.86146169999999
+    ],
+    "province_id": "LK-1",
+    "province_name": "Western",
+    "district_id": "LK-11",
+    "district_name": "Colombo",
+    "dsd_id": "LK-1103",
+    "dsd_name": "Colombo",
+    "gnd_id": "LK-1103140",
+    "gnd_name": "Suduwella"
+  },
+  "Nibaya (Pvt) Ltd": {
+    "company_name": "Nibaya (Pvt) Ltd",
+    "company_address": "No 56/1/B, Kandy Road, Kiribathgoda",
+    "latlng": [
+      6.9778284,
+      79.9271523
+    ],
+    "province_id": "LK-1",
+    "province_name": "Western",
+    "district_id": "LK-12",
+    "district_name": "Gampaha",
+    "dsd_id": "LK-1236",
+    "dsd_name": "Kelaniya",
+    "gnd_id": "LK-1236025",
+    "gnd_name": "Kiribathgoda"
+  },
+  "Novacura Lanka Pvt Ltd": {
+    "company_name": "Novacura Lanka Pvt Ltd",
+    "company_address": "No: 590 Galle Road 03 Colombo",
+    "latlng": [
+      6.911704200000001,
+      79.84982049999999
+    ],
+    "province_id": "LK-1",
+    "province_name": "Western",
+    "district_id": "LK-11",
+    "district_name": "Colombo",
+    "dsd_id": "LK-1127",
+    "dsd_name": "Thimbirigasyaya",
+    "gnd_id": "LK-1127005",
+    "gnd_name": "Kollupitiya"
+  },
+  "Omobio PVT LTD": {
+    "company_name": "Omobio PVT LTD",
+    "company_address": "No 1, St. Alban's Place, Colombo 04 (00400), Sri Lanka",
+    "latlng": [
+      6.8925515,
+      79.855446
+    ],
+    "province_id": "LK-1",
+    "province_name": "Western",
+    "district_id": "LK-11",
+    "district_name": "Colombo",
+    "dsd_id": "LK-1127",
+    "dsd_name": "Thimbirigasyaya",
+    "gnd_id": "LK-1127065",
+    "gnd_name": "Milagiriya"
+  },
+  "Ontash (Pvt) Ltd": {
+    "company_name": "Ontash (Pvt) Ltd",
+    "company_address": "Nest 01-08, Orion City, No.752, Dr. Danister De Silva Mawatha, Colombo 09",
+    "latlng": [
+      6.940721399999999,
+      79.878886
+    ],
+    "province_id": "LK-1",
+    "province_name": "Western",
+    "district_id": "LK-11",
+    "district_name": "Colombo",
+    "dsd_id": "LK-1127",
+    "dsd_name": "Thimbirigasyaya",
+    "gnd_id": "LK-1127030",
+    "gnd_name": "Dematagoda"
+  },
+  "Orel IT": {
+    "company_name": "Orel IT",
+    "company_address": "No 34 Old Road, Maharagama",
+    "latlng": [
+      6.8469313,
+      79.9474649
+    ],
+    "province_id": "LK-1",
+    "province_name": "Western",
+    "district_id": "LK-11",
+    "district_name": "Colombo",
+    "dsd_id": "LK-1121",
+    "dsd_name": "Maharagama",
+    "gnd_id": "LK-1121160",
+    "gnd_name": "Pannipitiya South"
+  },
+  "PSL Development (Pvt) Ltd": {
+    "company_name": "PSL Development (Pvt) Ltd",
+    "company_address": "Level 34, East Tower, World Trade Center, Colombo 1",
+    "latlng": [
+      6.9326529,
+      79.844161
+    ],
+    "province_id": "LK-1",
+    "province_name": "Western",
+    "district_id": "LK-11",
+    "district_name": "Colombo",
+    "dsd_id": "LK-1103",
+    "dsd_name": "Colombo",
+    "gnd_id": "LK-1103120",
+    "gnd_name": "Fort"
+  },
+  "Persistent Systems Lanka (PVT) LTD": {
+    "company_name": "Persistent Systems Lanka (PVT) LTD",
+    "company_address": "123, 4th Floor, Bauddhaloka Mawatha, Colombo",
+    "latlng": [
+      6.9018407,
+      79.8692882
+    ],
+    "province_id": "LK-1",
+    "province_name": "Western",
+    "district_id": "LK-11",
+    "district_name": "Colombo",
+    "dsd_id": "LK-1127",
+    "dsd_name": "Thimbirigasyaya",
+    "gnd_id": "LK-1127015",
+    "gnd_name": "Kurunduwatta"
+  },
+  "Prima Management Services Private Limited": {
+    "company_name": "Prima Management Services Private Limited",
+    "company_address": "Prima Corporate Office No. 50, Sri Jayawardenapura Mw, Rajagiriya, Sri Lanka",
+    "latlng": [
+      6.9084191,
+      79.89037069999999
+    ],
+    "province_id": "LK-1",
+    "province_name": "Western",
+    "district_id": "LK-11",
+    "district_name": "Colombo",
+    "dsd_id": "LK-1124",
+    "dsd_name": "Sri Jayawardanapura Kotte",
+    "gnd_id": "LK-1124025",
+    "gnd_name": "Welikada North"
+  },
+  "ProAccount Lanka (Pvt) Ltd.": {
+    "company_name": "ProAccount Lanka (Pvt) Ltd.",
+    "company_address": "3rd floor, IBM building, No 48 Nawam Mawatta, Colombo - 02",
+    "latlng": [
+      6.9184852,
+      79.85048669999999
+    ],
+    "province_id": "LK-1",
+    "province_name": "Western",
+    "district_id": "LK-11",
+    "district_name": "Colombo",
+    "dsd_id": "LK-1103",
+    "dsd_name": "Colombo",
+    "gnd_id": "LK-1103175",
+    "gnd_name": "Wekanda"
+  },
+  "Rizing Lanka PVT LTD": {
+    "company_name": "Rizing Lanka PVT LTD",
+    "company_address": "Level 9, No. 19, FLC Tower, Dudley Senanayake Mawatha, Colombo 08",
+    "latlng": [
+      6.9111853,
+      79.8772718
+    ],
+    "province_id": "LK-1",
+    "province_name": "Western",
+    "district_id": "LK-11",
+    "district_name": "Colombo",
+    "dsd_id": "LK-1127",
+    "dsd_name": "Thimbirigasyaya",
+    "gnd_id": "LK-1127045",
+    "gnd_name": "Borella South"
+  },
+  "S C E S Waldo Lanka PVT LTD": {
+    "company_name": "S C E S Waldo Lanka PVT LTD",
+    "company_address": "12th floor, 200 Nawala Road, Narehenpitiya",
+    "latlng": [
+      6.887046199999999,
+      79.88362049999999
+    ],
+    "province_id": "LK-1",
+    "province_name": "Western",
+    "district_id": "LK-11",
+    "district_name": "Colombo",
+    "dsd_id": "LK-1127",
+    "dsd_name": "Thimbirigasyaya",
+    "gnd_id": "LK-1127075",
+    "gnd_name": "Kirula"
+  },
+  "SANA COMMERCE PVT LTD": {
+    "company_name": "SANA COMMERCE PVT LTD",
+    "company_address": "Alnitak Building 3rd floor, 752 Dr. Danister De Silva MW, Colombo 09",
+    "latlng": [
+      6.9414444,
+      79.87986450000001
+    ],
+    "province_id": "LK-1",
+    "province_name": "Western",
+    "district_id": "LK-11",
+    "district_name": "Colombo",
+    "dsd_id": "LK-1127",
+    "dsd_name": "Thimbirigasyaya",
+    "gnd_id": "LK-1127030",
+    "gnd_name": "Dematagoda"
+  },
+  "SYNERGEN Health (Pvt) Ltd": {
+    "company_name": "SYNERGEN Health (Pvt) Ltd",
+    "company_address": "249 Stanley Thilikarathne road, Nugegoda",
+    "latlng": [
+      6.8649081,
+      79.8996789
+    ],
+    "province_id": "LK-1",
+    "province_name": "Western",
+    "district_id": "LK-11",
+    "district_name": "Colombo",
+    "dsd_id": "LK-1124",
+    "dsd_name": "Sri Jayawardanapura Kotte",
+    "gnd_id": "LK-1124090",
+    "gnd_name": "Gangodavila North"
+  },
+  "SimCentric Technologies (Pvt) Ltd": {
+    "company_name": "SimCentric Technologies (Pvt) Ltd",
+    "company_address": "3rd Floor, Alnitak Building, 752/5 Dr Danister De Silva Mawatha, Colombo 09",
+    "latlng": [
+      6.9414444,
+      79.87986450000001
+    ],
+    "province_id": "LK-1",
+    "province_name": "Western",
+    "district_id": "LK-11",
+    "district_name": "Colombo",
+    "dsd_id": "LK-1127",
+    "dsd_name": "Thimbirigasyaya",
+    "gnd_id": "LK-1127030",
+    "gnd_name": "Dematagoda"
+  },
+  "Sri Lanka Telecom": {
+    "company_name": "Sri Lanka Telecom",
+    "company_address": "No. 148/15, Lesley Ranagala Mawatha, Colombo 08.",
+    "latlng": [
+      6.9169499,
+      79.883539
+    ],
+    "province_id": "LK-1",
+    "province_name": "Western",
+    "district_id": "LK-11",
+    "district_name": "Colombo",
+    "dsd_id": "LK-1127",
+    "dsd_name": "Thimbirigasyaya",
+    "gnd_id": "LK-1127040",
+    "gnd_name": "Borella North"
+  },
+  "Stax LLC": {
+    "company_name": "Stax LLC",
+    "company_address": "278/4 , Access Towers II- 15th Floor, Union Place, Colombo 2",
+    "latlng": [
+      6.920204,
+      79.85747099999999
+    ],
+    "province_id": "LK-1",
+    "province_name": "Western",
+    "district_id": "LK-11",
+    "district_name": "Colombo",
+    "dsd_id": "LK-1103",
+    "dsd_name": "Colombo",
+    "gnd_id": "LK-1103170",
+    "gnd_name": "Ibbanwala"
+  },
+  "Sysco Labs": {
+    "company_name": "Sysco Labs",
+    "company_address": "55A Srimath Anagarika Dharmapala Mawatha, Colombo 03",
+    "latlng": [
+      6.912912,
+      79.8532633
+    ],
+    "province_id": "LK-1",
+    "province_name": "Western",
+    "district_id": "LK-11",
+    "district_name": "Colombo",
+    "dsd_id": "LK-1127",
+    "dsd_name": "Thimbirigasyaya",
+    "gnd_id": "LK-1127005",
+    "gnd_name": "Kollupitiya"
+  },
+  "TATACOMMUNICATIONS Lanka ltd": {
+    "company_name": "TATACOMMUNICATIONS Lanka ltd",
+    "company_address": "752/5 Baseline Rd, Colombo 09",
+    "latlng": [
+      6.9414444,
+      79.87986450000001
+    ],
+    "province_id": "LK-1",
+    "province_name": "Western",
+    "district_id": "LK-11",
+    "district_name": "Colombo",
+    "dsd_id": "LK-1127",
+    "dsd_name": "Thimbirigasyaya",
+    "gnd_id": "LK-1127030",
+    "gnd_name": "Dematagoda"
+  },
+  "Veracity Services PVT LTD": {
+    "company_name": "Veracity Services PVT LTD",
+    "company_address": "275, Nawala Road, Nawala, Sri Lanka",
+    "latlng": [
+      6.8861149,
+      79.8867345
+    ],
+    "province_id": "LK-1",
+    "province_name": "Western",
+    "district_id": "LK-11",
+    "district_name": "Colombo",
+    "dsd_id": "LK-1124",
+    "dsd_name": "Sri Jayawardanapura Kotte",
+    "gnd_id": "LK-1124030",
+    "gnd_name": "Nawala West"
+  },
+  "Volume Technology Centre (Pvt) Ltd": {
+    "company_name": "Volume Technology Centre (Pvt) Ltd",
+    "company_address": "Level 22, West Tower Bank Of Ceylon Mawatha, Colombo 00100, Sri Lanka",
+    "latlng": [
+      6.9330644,
+      79.8437507
+    ],
+    "province_id": "LK-1",
+    "province_name": "Western",
+    "district_id": "LK-11",
+    "district_name": "Colombo",
+    "dsd_id": "LK-1103",
+    "dsd_name": "Colombo",
+    "gnd_id": "LK-1103120",
+    "gnd_name": "Fort"
+  },
+  "WNS Global Services (Pvt.) Ltd": {
+    "company_name": "WNS Global Services (Pvt.) Ltd",
+    "company_address": "479 T. B. Jayah Mawatha, Colombo 01",
+    "latlng": [
+      6.920764399999999,
+      79.86279610000001
+    ],
+    "province_id": "LK-1",
+    "province_name": "Western",
+    "district_id": "LK-11",
+    "district_name": "Colombo",
+    "dsd_id": "LK-1103",
+    "dsd_name": "Colombo",
+    "gnd_id": "LK-1103170",
+    "gnd_name": "Ibbanwala"
+  },
+  "Wavenet International PVT Ltd": {
+    "company_name": "Wavenet International PVT Ltd",
+    "company_address": "No 231 Galle Rd, Colombo 04",
+    "latlng": [
+      6.888455500000001,
+      79.8572614
+    ],
+    "province_id": "LK-1",
+    "province_name": "Western",
+    "district_id": "LK-11",
+    "district_name": "Colombo",
+    "dsd_id": "LK-1127",
+    "dsd_name": "Thimbirigasyaya",
+    "gnd_id": "LK-1127065",
+    "gnd_name": "Milagiriya"
+  },
+  "Wiley Global Technology Private Limited": {
+    "company_name": "Wiley Global Technology Private Limited",
+    "company_address": "200 Narahenpita - Nawala Road, Sri Jayawardenepura Kotte,Sri Lanka",
+    "latlng": [
+      6.887046199999999,
+      79.88362049999999
+    ],
+    "province_id": "LK-1",
+    "province_name": "Western",
+    "district_id": "LK-11",
+    "district_name": "Colombo",
+    "dsd_id": "LK-1127",
+    "dsd_name": "Thimbirigasyaya",
+    "gnd_id": "LK-1127075",
+    "gnd_name": "Kirula"
+  },
+  "eBuilder Technology Centre Pvt Ltd": {
+    "company_name": "eBuilder Technology Centre Pvt Ltd",
+    "company_address": "eBuilder Technology Centre, Level 20, MAGA ONE, No 200, Nawala Road, Narahenpita, Sri Lanka",
+    "latlng": [
+      6.88706,
+      79.883494
+    ],
+    "province_id": "LK-1",
+    "province_name": "Western",
+    "district_id": "LK-11",
+    "district_name": "Colombo",
+    "dsd_id": "LK-1127",
+    "dsd_name": "Thimbirigasyaya",
+    "gnd_id": "LK-1127075",
+    "gnd_name": "Kirula"
+  },
+  "eMarketingEye": {
+    "company_name": "eMarketingEye",
+    "company_address": "Level 29, MAGA ONE, No.200, Narahenpita - Nawala Rd.",
+    "latlng": [
+      6.88706,
+      79.883494
+    ],
+    "province_id": "LK-1",
+    "province_name": "Western",
+    "district_id": "LK-11",
+    "district_name": "Colombo",
+    "dsd_id": "LK-1127",
+    "dsd_name": "Thimbirigasyaya",
+    "gnd_id": "LK-1127075",
+    "gnd_name": "Kirula"
+  },
+  "hSenid Business Solutions": {
+    "company_name": "hSenid Business Solutions",
+    "company_address": "67/1, Hudson Road, Off Perahera Mw, Colombo 03",
+    "latlng": [
+      6.9162918,
+      79.853342
+    ],
+    "province_id": "LK-1",
+    "province_name": "Western",
+    "district_id": "LK-11",
+    "district_name": "Colombo",
+    "dsd_id": "LK-1127",
+    "dsd_name": "Thimbirigasyaya",
+    "gnd_id": "LK-1127005",
+    "gnd_name": "Kollupitiya"
+  }
+}
